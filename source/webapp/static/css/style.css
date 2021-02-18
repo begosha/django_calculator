@@ -1,0 +1,46 @@
+h1{
+	text-transform: uppercase;
+	color: #FFBD33;
+}
+
+.main-page {
+	text-align: center;
+	margin-top: 20%;
+}
+
+	.btn {
+	  border: 2px solid black;
+	  background-color: white;
+	  color: black;
+	  padding: 14px 28px;
+	  font-size: 16px;
+	  cursor: pointer;
+	}
+
+		.see {
+		  border-color: #ff9800;
+		  color: orange;
+		}
+
+			.see:hover {
+			  background: #ff9800;
+			  color: white;
+			}
+
+.calc {
+	text-align: center;
+	margin: 18% 30%;
+}
+	.btn {
+		border: 2px solid black;
+		background-color: white;
+		color: black;
+		padding: 14px 28px;
+		font-size: 16px;
+		cursor: pointer;
+		border-radius: 15px;
+}
+.input {
+	wid;
+	height: auto ;
+}
